@@ -1,1 +1,8 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+terraform.tfvars
 
+# Node.js
+node_modules/
